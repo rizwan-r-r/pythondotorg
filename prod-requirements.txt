@@ -7,3 +7,4 @@ Whitenoise==6.0.0  # 6.0.0 is latest version that supports Django 2.2
 django-storages==1.12.3  # 1.12.3 is latest version that supports Django 2.2
 boto3==1.26.165
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+django>=4.2.14 # not directly required, pinned by Snyk to avoid a vulnerability
